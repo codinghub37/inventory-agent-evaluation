@@ -1,0 +1,8 @@
+langchain
+langchain-groq
+langsmith
+sentence-transformers
+numpy
+python-dotenv
+jupyter
+ipykernel
